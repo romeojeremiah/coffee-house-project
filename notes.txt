@@ -1,0 +1,10 @@
+HTML5, 
+CSS3,
+CSS Grid
+
+Animated Nav Button
+Animated Button to Stop and Start Video
+CSS positioning of the Nav Button
+JavaScript to add user pictures when signing up to form
+Responsive Page Layout
+Custom Grid Layout for the Our Work Section
