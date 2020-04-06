@@ -8,3 +8,7 @@ CSS positioning of the Nav Button
 JavaScript to add user pictures when signing up to form
 Responsive Page Layout
 Custom Grid Layout for the Our Work Section
+
+
+www.converterpoint.com - coverts MP4s into different video formats.
+www.loading.io - provides loading icon images. Download as .gif.
